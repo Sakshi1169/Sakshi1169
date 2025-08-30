@@ -52,3 +52,6 @@ DSA Problem Solving | Team Collaboration | Project Development
 📸 **Instagram (Personal)**: [Sakshiii___49](https://instagram.com/sakshiii___49/)  
 🏆 **LeetCode**: [sakshi_shelke_30](https://leetcode.com/u/sakshi_shelke_30/)  
 📧 **Email**: [sakshishelke316@gmail.com](mailto:sakshishelke316@gmail.com)  
+
+DM me on Instagram or LinkedIn for collaborations, questions, or just to say hi!😊
+
