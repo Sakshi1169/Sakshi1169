@@ -13,11 +13,11 @@ I enjoy building projects, solving problems, and exploring new technologies.
 
 ---
 
-## 📊 GitHub Stats  
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakshi1169&show_icons=true&theme=radical)  
+## 📊 GitHub Stats
+![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshi1169&show_icons=true&count_private=true&theme=radical)
 
-## 🔥 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi1169&layout=compact&theme=tokyonight)  
+## 🔥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi1169&langs_count=6&layout=default&theme=radical)
 
 ---
 
