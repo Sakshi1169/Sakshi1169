@@ -18,9 +18,6 @@ I enjoy building projects, solving problems, and exploring new technologies.
 ## 🔥 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi1169&langs_count=6&theme=radical)
 
-## 🔵 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sakshi1169&theme=radical)
-
 ---
 
 ## 🛠️ Skills & Tools  
