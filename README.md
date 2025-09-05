@@ -12,11 +12,11 @@ I enjoy building projects, solving problems, and exploring new technologies.
 - 🎯 Preparing for **FAANG-level opportunities**  
 
 ---
-## 📊 GitHub Stats
-![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshi1169&show_icons=true&count_private=true&theme=radical)
-
-## 🔥 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi1169&langs_count=6&theme=radical)
+## 📊 GitHub Stats & Top Languages
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi1169&show_icons=true&count_private=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi1169&langs_count=6&layout=compact&theme=radical" width="48%" />
+</p>
 
 ---
 
@@ -52,5 +52,4 @@ DSA Problem Solving | Team Collaboration | Project Development
 🏆 **LeetCode**: [sakshi_shelke_30](https://leetcode.com/u/sakshi_shelke_30/)  
 📧 **Email**: [sakshishelke316@gmail.com](mailto:sakshishelke316@gmail.com)  
 
-DM me on Instagram or LinkedIn for collaborations, questions, or just to say hi!😊
-
+DM me on Instagram or LinkedIn for collaborations, questions, or just to say hi! 😊
