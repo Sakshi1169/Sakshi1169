@@ -52,7 +52,7 @@ DSA Problem Solving | Team Collaboration | Project Development
 ## 🔗 Connect with Me  
 💻 **GitHub**: [Sakshi1169](https://github.com/Sakshi1169)  
 💼 **LinkedIn**: [sakshi-shelke](https://www.linkedin.com/in/sakshi-shelke-003979298/)  
-📸 **Instagram (Personal)**: [Sakshiii___49](https://instagram.com/sakshiii___49/)  
+📸 **Instagram (Personal)**: [Sakshi.72._](https://www.instagram.com/sakshi.72._/)  
 🏆 **LeetCode**: [sakshi_shelke_30](https://leetcode.com/u/sakshi_shelke_30/)  
 📧 **Email**: [sakshishelke316@gmail.com](mailto:sakshishelke316@gmail.com)  
 
