@@ -36,11 +36,9 @@ DSA Problem Solving | Team Collaboration | Project Development
 
 ---
 
-## 💙 I Also Like...  
-📸 Photography  
+## 💙 I Also Like...   
 🧩 Solving coding puzzles & participating in hackathons  
 👩‍💻 Practicing coding on **LeetCode**  
-🎨 Sharing creativity through **code and art**  
 
 ---
 
