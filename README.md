@@ -2,7 +2,7 @@
 
 ✨ Welcome to my GitHub profile!  
 I'm a final year **Computer Engineering Student** passionate about **Java, Data Structures & Algorithms, and Full Stack Development**.  
-I enjoy building projects, solving problems, and exploring new technologies.  
+I enjoy building projects, solving problems, and exploring new technologies.
 
 ---
 
