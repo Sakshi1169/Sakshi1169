@@ -42,11 +42,6 @@ DSA Problem Solving | Team Collaboration | Project Development
 
 ---
 
-## 🌟 Quote I Believe In  
-*"Consistency beats intensity — keep coding every day!"*  
-
----
-
 ## 🔗 Connect with Me  
 💻 **GitHub**: [Sakshi1169](https://github.com/Sakshi1169)  
 💼 **LinkedIn**: [sakshi-shelke](https://www.linkedin.com/in/sakshi-shelke-003979298/)  
