@@ -2,7 +2,7 @@
 <h3 align="center">Java Developer • Backend Enthusiast • DSA Learner</h3>
 
 <p align="center">
-Final Year Computer Engineering | Backend • API Development • Clean Code | Preparing for Top Tech Companies
+Final Year Computer Engineering | Backend • API Development • Clean Code 
 </p>
 
 ---
@@ -13,8 +13,7 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 
 - 🔥 Currently mastering **Advanced DSA**  
 - ☕ Strong command in **Java, OOP & Backend Development**  
-- 🌱 Learning **Spring Boot, MySQL & REST APIs**  
-- 🚀 Preparing for **FAANG & top tech companies**  
+- 🌱 Learning **Spring Boot, MySQL & REST APIs**   
 - 🎯 Consistency + Discipline + Smart Work  
 
 ---
@@ -67,7 +66,6 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 ## 🤍 Beyond Code  
 - 🎧 Love aesthetic UI design  
 - 🧠 Logical puzzles & problem-solving  
-- 📚 Reading psychology & spiritual books  
 - ✨ Focused on personal growth & discipline  
 
 ---
