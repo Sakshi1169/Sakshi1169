@@ -1,22 +1,23 @@
-# 👋 Hi, I'm Sakshi Shelke  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff66a3,100:6a00ff&height=180&section=header&text=Sakshi%20Shelke&fontSize=50&fontColor=ffffff" />
+</p>
 
-✨ Welcome to my GitHub profile!  
-I'm a final year **Computer Engineering Student** passionate about **Java, Data Structures & Algorithms, and Full Stack Development**.  
-I enjoy building projects, solving problems, and exploring new technologies.
+# 👋 Hi, I'm Sakshi Shelke  
+<p align="center">
+Final-year Computer Engineering Student • Java Developer • DSA Learner 
+</p>
 
 ---
 
 ## 🌟 About Me  
-- 💻 Currently focusing on **DSA & Full Stack Java**  
-- 📚 Lifelong learner, always curious to explore new frameworks & tools  
-- 🎯 Preparing for **FAANG-level opportunities**  
+- 💻 Focusing on **Data Structures & Algorithms + Full Stack Java**  
+- 🌱 Interested in **Backend, APIs, Scalability & System Design**  
+- ⚡ Strong foundation in **Java, OOP, and problem-solving**  
+- 🧠 Curious mind — always learning & exploring  
 
 ---
 
-## 📊 GitHub Overview
-
-## 📊 GitHub Overview
-
+## 📊 GitHub Overview  
 <table align="center">
   <tr>
     <td align="center">
@@ -31,36 +32,58 @@ I enjoy building projects, solving problems, and exploring new technologies.
   </tr>
 </table>
 
-
-
-
-
-
 ---
 
 ## 🛠️ Skills & Tools  
-**Languages**  
-☕ Java | ⚡ JavaScript | 🌐 HTML | 🎨 CSS  
 
-**Tools & Platforms**  
-🔹 Git & GitHub | 🖥️ VS Code | 🔹 IntelliJ IDEA | 🌐 Web Development  
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" height="45" />
+</p>
 
-**Other**  
-DSA Problem Solving | Team Collaboration | Project Development
+### **Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react" height="45" />
+</p>
+
+### **Databases & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea,postman" height="45" />
+</p>
+
 
 ---
 
-## 💙 I Also Like...   
-🧩 Solving coding puzzles & participating in hackathons  
-👩‍💻 Practicing coding on **LeetCode**  
+## 📘 Currently Learning  
+- 🔹 Advanced DSA  
+- 🔹 Java Full Stack  
+- 🔹 Spring Boot (REST APIs)  
+- 🔹 System Design Basics  
+
+---
+
+## 💙 I Also Like  
+- 🧩 Solving coding puzzles  
+- 👩‍💻 LeetCode practice  
+- 🤝 Contributing to open-source  
+- 🎨 Designing clean UIs  
 
 ---
 
 ## 🔗 Connect with Me  
-💻 **GitHub**: [Sakshi1169](https://github.com/Sakshi1169)  
-💼 **LinkedIn**: [sakshi-shelke](https://www.linkedin.com/in/sakshi-shelke-003979298/)  
-📸 **Instagram (Personal)**: [Sakshi.72._](https://www.instagram.com/sakshi.72._/)  
-🏆 **LeetCode**: [sakshi_shelke_30](https://leetcode.com/u/sakshi_shelke_30/)  
-📧 **Email**: [sakshishelke316@gmail.com](mailto:sakshishelke316@gmail.com)  
 
-DM me on Instagram or LinkedIn for collaborations, questions, or just to say hi! 😊
+<p align="left">
+  <a href="https://github.com/Sakshi1169"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="https://www.linkedin.com/in/sakshi-shelke-003979298/"><img src="httpsillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://www.instagram.com/sakshi.72._/"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="mailto:sakshishelke316@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+</p>
+
+📩 **Email:** sakshishelke316@gmail.com  
+🏆 **LeetCode:** https://leetcode.com/u/sakshi_shelke_30/  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:ff66a3&height=140&section=footer" />
+</p>
