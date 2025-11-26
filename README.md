@@ -17,29 +17,27 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 - 🎯 Consistency + Discipline + Smart Work  
 
 ---
-
 ## 📊 GitHub Analytics  
 
-<table align="center">
-  <tr>
-    <td>
-      <!-- Alternative Streak Stats server -->
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Sakshi1169&theme=radical&hide_border=true" width="330" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakshi1169&theme=radical&hide_border=true" width="330" />
-    </td>
-  </tr>
-</table>
+<!-- Streak Stats (stable India version) -->
+<p align="center">
+  <img src="https://streak-stats.vercel.app?user=Sakshi1169&theme=radical&hide_border=true" width="430" />
+</p>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshi1169&theme=radical&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
->
+<!-- Stats -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakshi1169&theme=radical&hide_border=true" width="430" />
+</p>
+
+<!-- Profile Details -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshi1169&theme=radical&hide_border=true" width="100%" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi1169&theme=radical&hide_border=true" width="100%"/>
+</p>
 
 
 ---
