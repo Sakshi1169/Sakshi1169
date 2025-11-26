@@ -22,16 +22,23 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 
 <table align="center">
   <tr>
-    <td><img src="https://streak-stats.demolab.com?user=Sakshi1169&theme=radical" width="330"></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakshi1169&theme=radical" width="330"></td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Sakshi1169&theme=radical&hide_border=true" width="330" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakshi1169&theme=radical&hide_border=true" width="330" />
+    </td>
   </tr>
 </table>
 
 <table align="center">
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshi1169&theme=radical" width="100%"></td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshi1169&theme=radical&hide_border=true" width="100%" />
+    </td>
   </tr>
 </table>
+
 
 ---
 
