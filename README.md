@@ -13,18 +13,13 @@ I enjoy building projects, solving problems, and exploring new technologies.
 
 ---
 
-## 📊 GitHub Summary Cards
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshi1169&theme=radical" width="100%" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sakshi1169&theme=radical" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sakshi1169&theme=radical" width="45%" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakshi1169&theme=radical" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sakshi1169&theme=radical" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=Sakshi1169&theme=radical&hide_border=false" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakshi1169&theme=radical" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sakshi1169&theme=radical" width="300" />
 </p>
-
 
 
 
