@@ -44,9 +44,9 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 
 ### 🧩 Backend & Frameworks  
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,bootstrap" height="50" /> 
-  <img src="https://img.shields.io/badge/JPA-5965F3?style=for-the-badge&logoColor=white" height="50" />
+  <img src="https://skillicons.dev/icons?i=spring,bootstrap" height="50" />
 </p>
+
 
 ### 🗄 Databases & Tools  
 <p>
