@@ -44,7 +44,7 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 
 ### 🧩 Backend & Frameworks  
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" height="50" />
+  <img src="https://skillicons.dev/icons?i=spring,jpa" height="50" />
 </p>
 
 ### 🗄 Databases & Tools  
