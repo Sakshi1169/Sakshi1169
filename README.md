@@ -34,10 +34,7 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshi1169&theme=radical&hide_border=true" width="100%" />
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi1169&theme=radical&hide_border=true" width="100%"/>
-</p>
+
 
 
 ---
