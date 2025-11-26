@@ -15,11 +15,30 @@ I enjoy building projects, solving problems, and exploring new technologies.
 
 ## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sakshi1169&theme=radical&hide_border=false" width="300" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakshi1169&theme=radical" width="300" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sakshi1169&theme=radical" width="300" />
-</p>
+<div align="center">
+
+  <!-- Streak -->
+  <img 
+    src="https://streak-stats.demolab.com?user=Sakshi1169&theme=radical&hide_border=false" 
+    width="300" 
+    style="display:inline-block;" 
+  />
+
+  <!-- Stats -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakshi1169&theme=radical" 
+    width="300" 
+    style="display:inline-block;" 
+  />
+
+  <!-- Languages -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sakshi1169&theme=radical" 
+    width="300" 
+    style="display:inline-block;" 
+  />
+
+</div>
 
 
 
