@@ -12,12 +12,14 @@ I enjoy building projects, solving problems, and exploring new technologies.
 - 🎯 Preparing for **FAANG-level opportunities**  
 
 ---
+
 ## 📊 GitHub Stats & Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi1169&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi1169&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Sakshi1169&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Sakshi1169&layout=compact&theme=radical" width="40%" />
 </p>
+
 
 
 
