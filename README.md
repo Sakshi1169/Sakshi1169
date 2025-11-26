@@ -13,12 +13,18 @@ I enjoy building projects, solving problems, and exploring new technologies.
 
 ---
 
-## 📊 GitHub Stats & Top Languages
+## 📊 GitHub Summary Cards
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Sakshi1169&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Sakshi1169&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshi1169&theme=radical" width="100%" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sakshi1169&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sakshi1169&theme=radical" width="45%" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakshi1169&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sakshi1169&theme=radical" width="45%" />
 </p>
+
 
 
 
