@@ -20,14 +20,16 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app?user=Sakshi1169&theme=radical" width="350" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakshi1169&theme=radical" width="350" />
+  <img src="https://streak-stats.vercel.app?user=Sakshi1169" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshi1169&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakshi1169" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshi1169" />
+</p>
 
 
 
