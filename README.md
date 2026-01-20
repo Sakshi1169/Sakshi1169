@@ -17,8 +17,6 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 - 🎯 Consistency + Discipline + Smart Work  
 
 ---
-## 📊 GitHub Analytics  
-
 ## 📊 GitHub Analytics
 
 <p align="center">
