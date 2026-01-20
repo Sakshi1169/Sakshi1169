@@ -38,6 +38,7 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 
 <p align="center">
   <img 
+    height="160"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi1169&layout=compact&theme=radical&hide_border=true" 
   />
 </p>
