@@ -38,9 +38,10 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi1169&layout=donut&theme=radical&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi1169&layout=donut-vertical&theme=radical&hide_border=true" 
   />
 </p>
+
 
 
 ---
