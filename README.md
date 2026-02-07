@@ -18,11 +18,9 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 
 ---
 ## 📊 GitHub Insights
-<p align="center">
-  <img width="420"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi1169&layout=pie&theme=radical&hide_border=true" />
-</p>
+## 🧠 Language Usage (Pie Chart)
 
+![Languages Pie](https://metrics.lecoq.io/Sakshi1169?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=2%)
 
 
 
