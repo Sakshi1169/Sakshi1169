@@ -19,9 +19,12 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 ---
 ## 📊 GitHub Analytics
 <p align="center">
-  <img width="360"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi1169&layout=compact&theme=radical&hide_border=true" />
-  <img width="360"
+  <img width="420"
+    src="https://github-readme-stats.vercel.app/api?username=Sakshi1169&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="420"
     src="https://streak-stats.vercel.app?user=Sakshi1169&theme=radical&hide_border=true" />
 </p>
 
