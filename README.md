@@ -17,11 +17,6 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 - 🎯 Consistency + Discipline + Smart Work  
 
 ---
-## 📊 GitHub Insights
-![Languages Pie](https://metrics.lecoq.io/Sakshi1169?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=2%)
-
-
----
 
 ## 🛠 Tech Stack  
 
@@ -55,7 +50,7 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 ## 🤍 Beyond Code  
 - 🎧 Love aesthetic UI design  
 - 🧠 Logical puzzles & problem-solving  
-- ✨ Focused on personal growth & discipline  
+- ✨ Focused on personal growth & discipline
 
 ---
 
