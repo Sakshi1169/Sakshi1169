@@ -14,7 +14,7 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 - 🔥 Currently mastering **Advanced DSA**  
 - ☕ Strong command in **Java, OOP & Backend Development**  
 - 🌱 Learning **Spring Boot, MySQL & REST APIs**   
-- 🎯 Consistency + Discipline + Smart Work  
+- 🎯 Consistency + Discipline + Smart Work.
 
 ---
 
