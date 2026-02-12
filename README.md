@@ -40,7 +40,7 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 
 ## 📚 Currently Learning  
 - Java Backend Development  
-- Spring Boot + Microservices (Basics)  
+- Spring Boot 
 - MySQL & Database Schema Design  
 - API Architecture & System Design  
 - Advanced DSA + LeetCode  
