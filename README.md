@@ -7,7 +7,7 @@ Final Year Computer Engineering | Backend • API Development
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 I’m a passionate **Java Developer** focused on building scalable backend systems using **Java + Spring Boot**.  
 I enjoy designing clean architectures, writing efficient code, and solving challenging logical problems.
 
