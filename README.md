@@ -1,8 +1,12 @@
-<h1 align="center">👋Hi, I'm <span style="color:#a431ff">Sakshi Shelke</span> </h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#a431ff">Sakshi Shelke</span></h1>
 <h3 align="center">Java Developer • Backend Enthusiast • DSA Learner</h3>
 
 <p align="center">
-Final Year Computer Engineering | Backend • API Development  
+Final Year Computer Engineering Student | Backend • API Development  
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sakshi1169&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
@@ -11,10 +15,10 @@ Final Year Computer Engineering | Backend • API Development
 I’m a passionate **Java Developer** focused on building scalable backend systems using **Java + Spring Boot**.  
 I enjoy designing clean architectures, writing efficient code, and solving challenging logical problems.
 
-- 🔥 Currently mastering **Advanced DSA**  
-- ☕ Strong command in **Java, OOP & Backend Development**  
-- 🌱 Learning **Spring Boot, MySQL & REST APIs**   
-- 🎯 Consistency + Discipline + Smart Work.
+- 🔥 Currently mastering **Advanced DSA**
+- ☕ Strong command in **Java, OOP & Backend Development**
+- 🌱 Learning **Spring Boot, MySQL & REST APIs**
+- 🎯 Consistency + Discipline + Smart Work
 
 ---
 
@@ -30,7 +34,6 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
   <img src="https://skillicons.dev/icons?i=spring,bootstrap" height="50" />
 </p>
 
-
 ### 🗄 Databases & Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postman,git,github,idea,vscode" height="50" />
@@ -40,17 +43,42 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 
 ## 📚 Currently Learning  
 - Java Backend Development  
-- Spring Boot 
+- Spring Boot  
 - MySQL & Database Schema Design  
 - API Architecture & System Design  
 - Advanced DSA + LeetCode  
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi1169&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi1169&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sakshi1169&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 📈 Contribution Graph & Total Commits  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshi1169&theme=tokyonight" />
+</p>
+
+---
+
 ## 🤍 Beyond Code  
 - 🎧 Love aesthetic UI design  
 - 🧠 Logical puzzles & problem-solving  
-- ✨ Focused on personal growth & discipline
+- ✨ Focused on personal growth & discipline  
 
 ---
 
@@ -65,3 +93,6 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 
 📩 **Email:** sakshishelke316@gmail.com  
 🐱 **LeetCode:** https://leetcode.com/u/sakshi_shelke_30  
+
+---
+⭐ *"Code. Build. Improve. Repeat."*
