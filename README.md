@@ -22,6 +22,17 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 
 ---
 
+## 💡 Core Skills
+- Object Oriented Programming (OOP)
+- Data Structures & Algorithms
+- REST API Development
+- Core Java & Collections Framework
+- JDBC
+- Exception Handling
+- Spring Boot
+- SQL & MySQL
+---
+
 ## 🛠 Tech Stack  
 
 ### 💻 Languages  
