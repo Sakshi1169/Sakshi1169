@@ -41,20 +41,11 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 
 ---
 
-## 📚 Currently Learning  
-- Java Backend Development  
-- Spring Boot  
-- MySQL & Database Schema Design  
-- API Architecture & System Design  
-- Advanced DSA + LeetCode  
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi1169&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi1169&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi1169&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi1169&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -72,13 +63,6 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshi1169&theme=tokyonight" />
 </p>
-
----
-
-## 🤍 Beyond Code  
-- 🎧 Love aesthetic UI design  
-- 🧠 Logical puzzles & problem-solving  
-- ✨ Focused on personal growth & discipline  
 
 ---
 
