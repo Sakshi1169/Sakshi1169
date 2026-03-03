@@ -32,25 +32,6 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 - SQL & MySQL
 ---
 
-## 🛠 Tech Stack  
-
-### 💻 Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" height="50" />
-</p>
-
-### 🧩 Backend & Frameworks  
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,bootstrap" height="50" />
-</p>
-
-### 🗄 Databases & Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postman,git,github,idea,vscode" height="50" />
-</p>
-
----
-
 ## 📊 GitHub Stats  
 
 <div align="center">
