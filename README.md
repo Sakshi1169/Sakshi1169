@@ -2,7 +2,7 @@
 <h3 align="center">Java Developer • Backend Enthusiast • DSA Learner</h3>
 
 <p align="center">
-Final Year Computer Engineering Student | Backend Development  
+Final Year Computer Engineering Student
 </p>
 
 <p align="center">
