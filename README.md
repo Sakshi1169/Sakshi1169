@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#a431ff">Sakshi Shelke</span></h1>
-<h3 align="center">Java Developer • Backend Enthusiast • DSA Learner</h3>
+<h3 align="center">Java Full-Stack Developer</h3>
 
 <p align="center">
 Final Year Computer Engineering Student
