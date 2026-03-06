@@ -22,7 +22,7 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 ---
 
 ## 💡 Core Skills
-- Object Oriented Programming (OOP)
+- Object Oriented Programming
 - Data Structures & Algorithms
 - REST API Development
 - Core Java & Collections Framework
