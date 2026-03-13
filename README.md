@@ -14,8 +14,6 @@ Final Year Computer Engineering Student
 ## 🚀 About Me
 I’m a passionate **Java Developer** focused on building scalable backend systems using **Java + Spring Boot**.  
 I enjoy designing clean architectures, writing efficient code, and solving challenging logical problems.
-
-- 🔥 Currently mastering **Advanced DSA**
 - ☕ Strong command in **Java, OOP & Backend Development**
 - 🎯 Consistency + Discipline + Smart Work
 
