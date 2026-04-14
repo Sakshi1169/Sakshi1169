@@ -27,7 +27,7 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 - JDBC
 - Exception Handling
 - Spring Boot
-- SQL & MySQL
+- MySQL
 ---
 
 ## 📊 GitHub Stats  
