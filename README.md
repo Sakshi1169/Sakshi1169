@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#a431ff">Sakshi Shelke</span></h1>
-<h3 align="center">Java Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Java Developer</h3>
 
 <p align="center">
 Final Year Computer Engineering Student
@@ -76,4 +76,4 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
 🐱 **LeetCode:** https://leetcode.com/u/sakshi_shelke_30  
 
 ---
-⭐ *"Code. Build. Improve. Repeat."*  
+⭐ *"Code. Build. Improve. Repeat."*   
