@@ -41,7 +41,7 @@ I enjoy designing clean architectures, writing efficient code, and solving chall
       <td>
         <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sakshi1169&layout=compact&theme=tokyonight&hide_border=true" width="300px" />
       </td>
-    </tr>
+    </tr>    
   </table>
 </div>
 
